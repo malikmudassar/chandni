@@ -1,0 +1,11 @@
+fa.nomi.halls@gmail.com
+CanadaHalls@2021
+
+FTP
+fa.nomi.halls@chandani.dinxstudio.com
+CanadaHalls@2021
+
+DB
+User: dinxstud_fanomihalls
+Pass: CanadaHalls@2021
+Database: dinxstud_marriagehallsmanagementDB
